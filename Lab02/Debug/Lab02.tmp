@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128A"</DEVICE>
+ <WORKING_DIR>C:\Git\EECE3624-Lab02\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Git\EECE3624-Lab02\Lab02.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m128adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Git\EECE3624-Lab02\Debug\Lab02.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab02.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab02.map</FILE>
+  <FILE>Lab02.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Git\EECE3624-Lab02\Lab02.asm</FILE><LINE>26</LINE></main>
+  <mainLoop><FILE>C:\Git\EECE3624-Lab02\Lab02.asm</FILE><LINE>41</LINE></mainLoop>
+  <outer_loop1><FILE>C:\Git\EECE3624-Lab02\Lab02.asm</FILE><LINE>47</LINE></outer_loop1>
+  <inner_loop1><FILE>C:\Git\EECE3624-Lab02\Lab02.asm</FILE><LINE>50</LINE></inner_loop1>
+  <outer_loop2><FILE>C:\Git\EECE3624-Lab02\Lab02.asm</FILE><LINE>61</LINE></outer_loop2>
+  <inner_loop2><FILE>C:\Git\EECE3624-Lab02\Lab02.asm</FILE><LINE>64</LINE></inner_loop2>
+ </LABELS>
+</ASSEMBLER_INFO>
